@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+#title {
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    border: 5px solid unset;
+    left: 600px;
+    top: 300;
+}
+#ToPage2 {
+    font-size: 40px;
+    position: absolute;
+    text-align: center;
+    border: 5px solid unset;
+    left: 600px;
+    top: 150px;
+}
